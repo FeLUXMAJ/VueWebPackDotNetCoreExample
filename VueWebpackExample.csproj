@@ -4,9 +4,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <TypeScriptToolsVersion>2.3</TypeScriptToolsVersion>
     <TypeScriptCompileBlocked>True</TypeScriptCompileBlocked>
+    <UserSecretsId>312b9797-672e-4fd7-8285-251c934960b4</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Views\Account\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
